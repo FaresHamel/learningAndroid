@@ -23,3 +23,8 @@
    1.  git branch for git your real branch
    2.  git remote -v for git remote respository
    3. git remoteName branchName
+
+### Deleted Directory
+
+ 1. lsof nameDirectory for empty
+ 2. rm -r or rm -rf or rmdir nameDirectoryEmpty.  
