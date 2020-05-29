@@ -23,8 +23,18 @@
    1.  git branch for git your real branch
    2.  git remote -v for git remote respository
    3. git remoteName branchName
+   
+ ### git pull 
+  
+   for git new chengment in git respository origin
 
 ### Deleted Directory
 
  1. lsof nameDirectory for empty
  2. rm -r or rm -rf or rmdir nameDirectoryEmpty.  
+ 
+### create Fille and Directory
+
+  1. Directory ( mkdir nameDirectory )
+  2. Fille (touch nameFille )  
+ 
